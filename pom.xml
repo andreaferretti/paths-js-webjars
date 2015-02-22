@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>paths-js</artifactId>
-    <version>0.3.2-SNAPSHOT</version>
+    <version>0.3.2</version>
     <description>WebJar for paths-js</description>
     <url>http://webjars.org</url>
 
@@ -42,7 +42,7 @@
         <url>http://github.com/webjars/paths-js</url>
         <connection>scm:git:https://github.com/webjars/paths-js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/paths-js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>paths-js-0.3.2</tag>
     </scm>
 
     <dependencies>
