@@ -43,7 +43,7 @@
         <url>http://github.com/webjars/paths-js</url>
         <connection>scm:git:https://github.com/webjars/paths-js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/paths-js.git</developerConnection>
-        <tag>paths-js-0.3.2-1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
