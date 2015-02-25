@@ -11,7 +11,8 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>paths-js</artifactId>
-    <version>0.3.3-SNAPSHOT</version>
+    <name>Paths.js</name>
+    <version>0.3.2-1</version>
     <description>WebJar for paths-js</description>
     <url>http://webjars.org</url>
 
